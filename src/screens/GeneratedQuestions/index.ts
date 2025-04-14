@@ -1,0 +1,1 @@
+export { GeneratedQuestions } from "./GeneratedQuestions";
